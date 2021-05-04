@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    background-color: #1b1c1d;
+}
+
+nav{
+    vertical-align: top; 
+    padding-top: 30px;
+    color: white;
+    word-spacing: 50px;
+    font-size: 10px;
+    font-family : Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+}
+
+h2{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-bottom: 200px;
+    font-size: 20px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column1 {
+    float: left;
+    width: 22%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-right: 5px;
+    padding: 10px;
+  }
+
+  .row1{
+      padding-left:200px;
+      padding-right: 200px;
+      padding-bottom: 100px;
+      text-align:center;
+      align-content: center;
+  }
+  
+  h4{
+      text-align: left;
+      margin-bottom:0px;
+  }
+
+  .sec4{
+      margin-top: -23px;
+  }
+  
+  .sec5{
+    margin-top: -15px;
+    align-content:center;
+    text-align: justify;
+}
+
+
+  /* Clear floats after the columns */
+  .row1:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column2 {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row2 :after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column3 {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row3:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #section1{
+      padding-left: 200px;
+      padding-right: 200px;
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
+
+  p{
+    font-size:14px;
+    font-weight:100;
+    color: #1b1c1d;
+    padding-top: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:30px;
+    text-align:left;
+    padding-right:100px;
+
+  }
+
+  img{
+      margin-left:100px;
+
+  }
+
+  #button{
+      text-align: center;
+
+  }
+
+  .btn1 {
+    background-color: #e0e1e2;
+    border: none;
+    border-radius: 5px; 
+    color: #5a849a; 
+    padding: 12px 16px; 
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    
+  }
+  
+  /* Darker background on mouse-over */
+  .btn1:hover {
+    background-color: #e0e1e2;
+  }
+ 
+  .btn2 {
+    background-color: #db2828;
+    border: none; 
+    border-radius: 5px; 
+    color: #fffcf5; 
+    padding: 12px 16px; 
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    
+  }
+  
+  /* Darker background on mouse-over */
+  .btn2:hover {
+    background-color: #db2828;
+  }
+
+  .btn3 {
+    background-color: #f2711d;
+    border: none; 
+    border-radius: 5px; 
+    color: #fffcf5; 
+    padding: 12px 16px; 
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    
+  }
+  
+  /* Darker background on mouse-over */
+  .btn3:hover {
+    background-color: #f2711d;
+  }
+
+  #section2{
+      background-color: #1b1c1d;
+      height: 150px;
+  }
+
+  .thought{
+      font-size: 20px;
+      color: white;
+      font-family:Arial, Helvetica, sans-serif;
+      vertical-align: middle;
+      text-align: center;
+      padding-top: 60px;
+      padding-bottom: 60px;
+  }
+
+
+  .hr-icon{
+      text-align: center;
+      font-size: 20px;
+      text-indent: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      color: #1b1c1d;
+  }
+
+
+  #section4{
+      padding-left: 200px;
+      padding-right: 200px;
+      height: auto;
+      padding-bottom:50px;
+  }
+
+
+  li{
+      font-size: 14px;
+      font-family:Arial, Helvetica, sans-serif;
+      color:#1b1c1d;
+      margin-right: 30px;
+      margin-bottom: 6px;
+  }
+
+
+  #seperate{
+      background-color: #1b1c1d;
+      padding-top: 60px;
+      padding-bottom: 0px;
+      padding-left: 200px;
+      color: white;
+      font-size: 15px;
+      font-weight: 200px;
+      font-family:Arial, Helvetica, sans-serif;
+      
+  }
+  
+
